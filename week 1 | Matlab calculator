@@ -1,0 +1,8 @@
+#Matlab_Calculator
+
+
+
+Borrowed= 1000;
+interest=0.1;
+time_left=2; n=1;
+debt=Borrowed*(1+(interest/n))^(n*time_left)
